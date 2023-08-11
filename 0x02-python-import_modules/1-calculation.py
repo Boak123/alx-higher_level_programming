@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # 1-calculation.py
 
-if _name_ = "_main_"
+if _name_ == "_main_":
     """ print the sum, difference, multiple and quotient of 10 and 5."""
     from calculator_1 import add, sub, mul, div,
 

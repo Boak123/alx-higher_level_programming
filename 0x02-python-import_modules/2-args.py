@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 # 2-args.py
+# Boluwatife victor
 
-if __name__ == " __main__ ":
-    """prints the number of and the list of its arguments"""
+if __name__ == "__main__":
+    """Print the number of and list of arguments."""
     import sys
 
     count = len(sys.argv) - 1

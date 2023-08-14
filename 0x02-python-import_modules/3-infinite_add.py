@@ -2,7 +2,7 @@
 # 3-infinite_add.py
 
 
-if __name__ == " __main__ ":
+if __name__ == "__main__":
     """prints the result of the addition of all arguments"""
     import sys
 

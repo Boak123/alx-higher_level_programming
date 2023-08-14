@@ -2,7 +2,7 @@
 # 4-hidden_discovery.py
 
 if __name__ == "__main__":
-    """ prints all the names defined by the compiled module."""
+    """Print all names defined by hidden_4 module."""
     import  hidden_4
 
     names = dir(hidden_4)

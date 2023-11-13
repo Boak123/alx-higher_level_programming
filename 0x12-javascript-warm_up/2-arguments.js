@@ -11,5 +11,5 @@ else if (process.argv.length === 3)
 }
 else
 {
-	console.log('Argument found');
+	console.log('Argument founds');
 }
